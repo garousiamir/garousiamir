@@ -57,3 +57,6 @@
 </td></tr></table>  
 
 <br/>  
+
+![LPIC-1](https://github.com/garousiamir/garousiamir/blob/main/1.jpg?raw=true)
+![LPIC-2](https://github.com/garousiamir/garousiamir/blob/main/2.jpg?raw=true)
