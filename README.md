@@ -1,6 +1,6 @@
 
 ## Intro  
-### <div align="center">I'm Amirhossein Garousi. I a Web developer and Linux Server Administrator.</div>  
+### <div align="center">I'm Amirhossein Garousi. A Web developer and Linux Server Administrator.</div>  
   
 
 - 🔭 I’m currently working on Creating WHMCS & WordPress themes and plugins.  
