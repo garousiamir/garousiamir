@@ -58,5 +58,10 @@
 
 <br/>  
 
+![Amirhossein Garousi's GitHub stats](https://github-readme-stats.vercel.app/api?username=garousiamir&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garousiamir&layout=compact) 
+
+<br/>  
+
 ![LPIC-1](https://github.com/garousiamir/garousiamir/blob/main/1.jpg?raw=true)
 ![LPIC-2](https://github.com/garousiamir/garousiamir/blob/main/2.jpg?raw=true)
